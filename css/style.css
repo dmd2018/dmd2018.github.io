@@ -87,7 +87,11 @@ nav {
   padding-top: 20px;
   padding-bottom: 20px;
   height: 70px;
-  margin-top: 0; }
+  margin-top: 0px; }
+
+@media screen and (max-width: 1200px) {
+  .fixed-nav {
+    position: static; } }
 
 header .title {
   display: -ms-flexbox;
@@ -134,6 +138,7 @@ header .title {
     margin-bottom: 50px; }
     .projects .projects-title ul {
       list-style: none;
+      margin-top: 20px;
       display: -ms-flexbox;
       display: flex;
       -ms-flex-pack: justify;
@@ -142,12 +147,21 @@ header .title {
       .projects .projects-title ul li {
         cursor: pointer; }
         .projects .projects-title ul li a {
-          color: #000; }
+          color: #000;
+          transition: all 0.2s ease-in-out; }
+          .projects .projects-title ul li a:hover {
+            color: #576fae;
+            font-size: 1.1rem; }
 
 .project {
   background-color: #fff;
   padding: 10px;
-  margin-bottom: 50px; }
+  margin-bottom: 50px;
+  transition: all 0.3s ease-in-out; }
+  .project:hover {
+    padding: 20px; }
+    .project:hover h2, .project:hover h3 {
+      color: #576fae; }
   .project a {
     width: 460px;
     height: 417px;
