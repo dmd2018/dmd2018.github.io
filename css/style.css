@@ -173,6 +173,14 @@ header .title {
     text-transform: uppercase;
     letter-spacing: 2px; }
 
+@media screen and (max-width: 1200px) {
+  .projects .projects-title ul {
+    width: 100%;
+    -ms-flex-flow: column;
+    flex-flow: column;
+    -ms-flex-align: center;
+    align-items: center; } }
+
 .find-us iframe {
   width: 100%; }
 
