@@ -124,16 +124,20 @@ header .title {
   header .title h1 {
     font-size: 4rem;
     text-transform: uppercase; }
-  header .title .sub {
-    padding: 10px 0; }
   header .title .top {
     border-top: 2px solid #fff;
-    padding-top: 0;
+    padding-top: 10px;
     padding-bottom: 0; }
   header .title .bottom {
     border-bottom: 2px solid #fff;
     padding-top: 0;
-    padding-bottom: 0; }
+    padding-bottom: 10px; }
+  header .title .address {
+    margin: 10px 0;
+    letter-spacing: 1rem;
+    text-align: center; }
+    header .title .address p {
+      margin-bottom: 15px; }
 
 .about {
   text-align: center;
