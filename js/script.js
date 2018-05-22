@@ -29,24 +29,11 @@ var number = 0;
              }
              else if (this.hasAttribute("data-adam")) {
                number = 1;
-             } else if (this.hasAttribute("data-katie")) {
+             }
+             else if (this.hasAttribute("data-tessa")) {
                number = 2;
-             } else if (this.hasAttribute("data-becky")) {
-               number = 3;
-             } else if (this.hasAttribute("data-abbieg")) {
-               number = 4;
-             } else if (this.hasAttribute("data-abbien")) {
-               number = 5;
-             } else if (this.hasAttribute("data-amyp")) {
-               number = 6;
-             } else if (this.hasAttribute("data-matt")) {
-               number = 7;
-             } else if (this.hasAttribute("data-verity")) {
-               number = 8;
-             } else if (this.hasAttribute("data-tessa")) {
-               number = 9;
              } else if (this.hasAttribute("data-amyw")) {
-               number = 10;
+               number = 3;
              }
             $(".project-info-img").attr("src", data[number].image);
             $(".project-info-title").text(data[number].project);
