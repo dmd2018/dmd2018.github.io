@@ -34,6 +34,8 @@ var number = 0;
                number = 2;
              } else if (this.hasAttribute("data-amyw")) {
                number = 3;
+             } else if (this.hasAttribute("data-katie")) {
+               number = 4;
              }
             $(".project-info-img").attr("src", data[number].image);
             $(".project-info-title").text(data[number].project);

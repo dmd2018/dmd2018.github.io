@@ -39,7 +39,19 @@
     "short": "Beauty Blend is a makeup tutorial app which allows users to create tutorials for others to follow.",
     "long": "Beauty Blend is a makeup tutorial app which allows users to create tutorials for others to follow. Select the duration, difficulty and various steps. If users don’t wish to create tutorials, they can sign up purely to follow them and master new makeup trends, then when they have finished they can share their looks with friends on social media.",
     "email": "amy_wichelow@hotmail.co.uk"
+  },
+  {
+    "person": "Katie Mcgowan",
+    "project": "Korero",
+    "type": "wesbite",
+    "attr": "data-katie",
+    "image": "../media/logos/katie.png",
+    "short": "Korero is a social media service which connects users with others around them who share the same interests, and allows them to chat with each other",
+    "long": "Korero is a social media service which connects users with others around them who share the same interests, and allows them to chat with each other. Simply enter as many interests as you like, and you'll be connected to others people based upon physical location and number of shared interests.",
+    "email": "katiemcgoo@hotmail.co.uk"
+
   }
+
 
 
 
