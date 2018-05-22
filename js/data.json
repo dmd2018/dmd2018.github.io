@@ -1,0 +1,47 @@
+
+[
+  {
+    "person": "Samuel Gray",
+    "project": "sight",
+    "image": "../media/logos/sam.png",
+    "attr": "data-sam",
+    "type": "app",
+    "short": "Sight allows a visual imapaired user to navigate their environment helping them find, objects they are looking for without assistance from another person, helping them identify close family and friends and even read.",
+    "long": "As full sighted people, we often take for the advantage the ease that sight brings to our lives, from enjoying the view outside our bedroom window, knowing what breed of dog is in front of us to sensing social cues through body language such as smiling or frowning. However, for blind people they have no such advantages, they cannot preserve the world around them via sight. That is my mobile application Sight comes in. It will allow a user to navigate their environment helping them find, objects they are looking for without assistance from another person, helping them identify close family and friends and even read.",
+    "email": "sam.gray22@gmail.com"
+  },
+  {
+    "person": "Adam Hale",
+    "project": "Cookr",
+    "attr": "data-adam",
+    "type": "other",
+    "image": "../media/logos/adam.png",
+    "short": "With The Cookr recipe cards, the traditional recipe cards are reimagined using technology. Online video tutorials of recipes are a tap away with Near Field Communication (NFC) tags built into the cards.",
+    "long": "Simply tap an NFC enabled Android or iOS device on any recipe page and an online video tutorial of how to make the dish is instantly available to view on screen.  The project is designed as an alternative to using a laptop in the kitchen to aid cooking to access recipes or online videos.  As most modern smartphones are waterproof, they act as the perfect medium to access digital content in the kitchen. These recipe cards give aspiring cooks the choice to read the recipe from the card or view an online tutorial, all with the tap of their smartphone. ",
+    "email": "adam.hale@live.co.uk"
+  },
+  {
+    "person": "Tessa Waldock",
+    "project": "Freehand",
+    "type": "app",
+    "attr": "data-tessa",
+    "image": "../media/logos/tessa.png",
+    "short": "Freehand generates a new Doodle of the Day, everyday. Stay creative with Freehand by choosing to share your very own version of #doodleoftheday.",
+    "long": "Freehand generates a new Doodle of the Day, everyday. Stay creative with Freehand by choosing to share your very own version of #doodleoftheday. Create a profile and release your inner-creativity by drawing daily with Freehand. Be inspired and stay connected with fellow users.",
+    "email": "waldocktessa@gmail.com"
+  },
+  {
+    "person": "Amy Wichelow",
+    "project": "Beauty Blend",
+    "type": "app",
+    "attr": "data-amyw",
+    "image": "../media/logos/am.png",
+    "short": "Beauty Blend is a makeup tutorial app which allows users to create tutorials for others to follow.",
+    "long": "Beauty Blend is a makeup tutorial app which allows users to create tutorials for others to follow. Select the duration, difficulty and various steps. If users don’t wish to create tutorials, they can sign up purely to follow them and master new makeup trends, then when they have finished they can share their looks with friends on social media.",
+    "email": "amy_wichelow@hotmail.co.uk"
+  }
+
+
+
+
+]
