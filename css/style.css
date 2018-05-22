@@ -125,9 +125,15 @@ header .title {
     font-size: 4rem;
     text-transform: uppercase; }
   header .title .sub {
-    border-top: 2px solid #fff;
-    border-bottom: 2px solid #fff;
     padding: 10px 0; }
+  header .title .top {
+    border-top: 2px solid #fff;
+    padding-top: 0;
+    padding-bottom: 0; }
+  header .title .bottom {
+    border-bottom: 2px solid #fff;
+    padding-top: 0;
+    padding-bottom: 0; }
 
 .about {
   text-align: center;
@@ -222,7 +228,9 @@ header .title {
   padding: 20px;
   opacity: 0;
   border-radius: 5px;
-  box-shadow: 0px 0px 18px -1px rgba(0, 0, 0, 0.75); }
+  box-shadow: 0px 0px 18px -1px rgba(0, 0, 0, 0.75);
+  max-height: 800px;
+  overflow: scroll; }
   .project-info .col {
     margin: 0; }
   .project-info img {
