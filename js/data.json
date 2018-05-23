@@ -50,8 +50,30 @@
     "long": "Korero is a social media service which connects users with others around them who share the same interests, and allows them to chat with each other. Simply enter as many interests as you like, and you'll be connected to others people based upon physical location and number of shared interests.",
     "email": "katiemcgoo@hotmail.co.uk"
 
-  }
+  },
 
+  {
+    "person": "Becky Hughes",
+    "project": "Astral Body",
+    "type": "installation",
+    "attr": "data-becky",
+    "image": "../media/logos/becky.jpg",
+    "short": "Astral body is an artistic and spiritual representation of foetal development as it forms and grows inside of the womb.",
+    "long": "Astral body is an artistic and spiritual representation of foetal development as it forms and grows inside of the womb. Conveying the beauty of life and taking away from the medical and often uncomfortable feelings which women may experience during pregnancy, Astral Body encourages the audience to imagine the fusion of two bodies creating new life as a thing of beauty.",
+    "email": "becky_hughes94@hotmail.co.uk"
+
+  },
+  {
+    "person": "Abbie Norris",
+    "project": "iRescue",
+    "type": "app",
+    "attr": "data-abbien",
+    "image": "../media/logos/abbien.png",
+    "short": "iRescue is an animal adoption app to help users connect with abandoned animals in need of a home.",
+    "long": "iRescue is an animal adoption app to help users connect with abandoned animals in need of a home. Using location to find shelters near you, search and refine what type of animal you would like to adopt and browse in your own time to find the right animal for you. Also speed up the adoption process through filling out an application form on your phone, sent directly to the shelter.",
+    "email": "abbeenorris@hotmail.co.uk"
+
+  }
 
 
 
