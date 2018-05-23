@@ -36,6 +36,10 @@ var number = 0;
                number = 3;
              } else if (this.hasAttribute("data-katie")) {
                number = 4;
+             } else if (this.hasAttribute("data-becky")) {
+               number = 5;
+             } else if (this.hasAttribute("data-abbien")) {
+               number = 6;
              }
             $(".project-info-img").attr("src", data[number].image);
             $(".project-info-title").text(data[number].project);
