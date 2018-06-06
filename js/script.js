@@ -42,6 +42,24 @@ var number = 0;
                number = 6;
              } else if (this.hasAttribute("data-terry")) {
                number = 7;
+             } else if (this.hasAttribute("data-amyp")) {
+               number = 8;
+             } else if (this.hasAttribute("data-grace")) {
+               number = 9;
+             } else if (this.hasAttribute("data-tim")) {
+               number = 10;
+             } else if (this.hasAttribute("data-hallam")) {
+               number = 11;
+             } else if (this.hasAttribute("data-michael")) {
+               number = 12;
+             }else if (this.hasAttribute("data-kyle")) {
+               number = 13;
+             } else if (this.hasAttribute("data-matt")) {
+               number = 14;
+             } else if (this.hasAttribute("data-luke")) {
+               number = 15;
+             } else if (this.hasAttribute("data-joel")) {
+               number = 16;
              }
             $(".project-info-img").attr("src", data[number].image);
             $(".project-info-title").text(data[number].project);
@@ -55,7 +73,7 @@ var number = 0;
 })
       },
         error: function(xhr, status, error) {
-            console.log("opps");
+              console.log(error);
         }
     });
 
