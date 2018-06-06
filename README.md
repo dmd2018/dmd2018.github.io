@@ -20,7 +20,7 @@ you then need to edit the file in dest/js/data.json with your info
 add your logo to dest/media/logos
 
 then go into the script file in src/js/script.js (Make sure its file in the src folder not the dest!!!)
-and code that looks like this
+add the below code under code that looks like this:
 else if (this.hasAttribute("data-yourName")) {
               number = NUMBER ; (next number on from the one above)
         }
