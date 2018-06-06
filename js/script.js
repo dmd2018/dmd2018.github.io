@@ -60,6 +60,8 @@ var number = 0;
                number = 15;
              } else if (this.hasAttribute("data-joel")) {
                number = 16;
+             } else if (this.hasAttribute("data-verity")) {
+               number = 17;
              }
             $(".project-info-img").attr("src", data[number].image);
             $(".project-info-title").text(data[number].project);
