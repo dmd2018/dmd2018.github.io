@@ -23,7 +23,9 @@ body {
   width: 85%; }
 
 .grid-wrap {
+  display: -ms-flexbox;
   display: flex;
+  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   width: 100%; }
 
@@ -77,16 +79,22 @@ nav {
   background-color: #fff;
   z-index: 10000000; }
   nav .logo {
+    display: -ms-flexbox;
     display: flex;
     height: 50px;
+    -ms-flex-align: center;
     align-items: center; }
   nav .nav-wrap {
+    -ms-flex-pack: justify;
     justify-content: space-between; }
     nav .nav-wrap ul {
+      display: -ms-flexbox;
       display: flex;
+      -ms-flex-pack: justify;
       justify-content: space-between;
       list-style: none;
       height: 50px;
+      -ms-flex-align: center;
       align-items: center; }
 
 .fixed-nav {
@@ -101,10 +109,14 @@ nav {
     position: static; } }
 
 header .title {
+  display: -ms-flexbox;
   display: flex;
   height: 100vh;
+  -ms-flex-align: center;
   align-items: center;
+  -ms-flex-pack: center;
   justify-content: center;
+  -ms-flex-flow: column;
   flex-flow: column; }
   header .title h1, header .title h2 {
     margin: 10px 0;
@@ -150,15 +162,20 @@ header .title {
   .projects .col {
     min-width: 470px; }
   .projects .projects-title {
+    display: -ms-flexbox;
     display: flex;
+    -ms-flex-align: center;
     align-items: center;
+    -ms-flex-flow: column;
     flex-flow: column;
     width: 100%;
     margin-bottom: 50px; }
     .projects .projects-title ul {
       list-style: none;
       margin-top: 20px;
+      display: -ms-flexbox;
       display: flex;
+      -ms-flex-pack: justify;
       justify-content: space-between;
       width: 30%; }
       .projects .projects-title ul li {
@@ -200,7 +217,9 @@ header .title {
     height: 332px; }
   .projects .projects-title ul {
     width: 100%;
+    -ms-flex-flow: column;
     flex-flow: column;
+    -ms-flex-align: center;
     align-items: center; } }
 
 .project-info {
@@ -234,10 +253,14 @@ footer {
   text-align: center;
   background-color: #d5d5d5; }
   footer .col {
+    display: -ms-flexbox;
     display: flex;
     height: 100px;
+    -ms-flex-align: center;
     align-items: center;
+    -ms-flex-pack: distribute;
     justify-content: space-around;
+    -ms-flex-flow: column;
     flex-flow: column; }
 
 #gradient {
