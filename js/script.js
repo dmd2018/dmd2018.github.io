@@ -62,6 +62,15 @@ var number = 0;
                number = 16;
              } else if (this.hasAttribute("data-verity")) {
                number = 17;
+             } else if (this.hasAttribute("data-nibia")) {
+               number = 18;
+             } else if (this.hasAttribute("data-mark")) {
+               number = 19;
+             } else if (this.hasAttribute("data-amyc")) {
+               number = 20;
+             } else if (this.hasAttribute("data-giancarlo")) {
+               number = 21;
+
              }
             $(".project-info-img").attr("src", data[number].image);
             $(".project-info-title").text(data[number].project);

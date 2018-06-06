@@ -186,10 +186,46 @@
 		"short": "The ‘Forge Fiends’ Character Compendium is an experimental take on video game asset design, focusing primarily on the characters and their interlinking narratives. The compendium focuses both on highly detailed artwork and vector-based assets for animation, created in Adobe Photoshop and Illustrator respectively.",
 		"long": "The ‘Forge Fiends’ Character Compendium is an experimental take on video game asset design, focusing primarily on the characters and their interlinking narratives.",
 		"email": "veritycannings@gmail.com"
+	},
+
+	{
+		"person": "Nibia Waheed",
+		"project": "Ask Me Anything",
+		"type": "app",
+		"attr": "data-nibia",
+		"image": "../media/logos/nibia.jpeg",
+		"short": "Ask Me Anything is a physical card game called ‘Ask Me Anything’, the game is based on getting to know people around you. This can be for dating or friendship purposes.",
+		"long": "Ask Me Anything allows people to be open with each other and add a sense of risk to the relationship they have, as honesty is key to the game. It’s based on humour as this can be a step towards building a foundation for a relationship.",
+		"email": ""
+	},
+	{
+		"person": "Mark Lucas",
+		"project": "UNiPAL",
+		"type": "app",
+		"attr": "data-mark",
+		"image": "../media/logos/mark.png",
+		"short": "UNiPAL app is a unique iOS application that allows BU students to connect with one another no matter what faculty, course or year they're in.",
+		"long": "UNiPAL app is a unique iOS application that allows BU students to connect with one another no matter what faculty, course or year they're in. UNiPAL gives students the chance to reach out and share advice, experiences and knowledge which in turn, can create more dynamic social networks and friendships.",
+		"email": "markj.lucas@hotmail.com"
+	},
+	{
+		"person": "Amy Cotton",
+		"project": "Giftable",
+		"type": "app",
+		"attr": "data-amyc",
+		"image": "../media/logos/amyc.png",
+		"short": "Giftable is an iOS application that makes buying the perfect gift easier",
+		"long": "Giftable is an iOS application that makes buying the perfect gift easier. By creating a profile for your ‘Giftee’ you can quickly search a variety of shops online for a gift that matches your ‘Giftee’s’ likes, hobbies and interests. It also has an in-built event calendar which makes remembering everyone’s birthdays much easier!",
+		"email": "Amyannecotton@gmail.com"
+	},
+	{
+		"person": "Giancarlo Fagon",
+		"project": "Giftable",
+		"type": "other",
+		"attr": "data-giancarlo",
+		"image": "../media/logos/giancarlo.png",
+		"short": "The Industry is a digital music-themed collectible card game, where two players face off in a turned-based match to accrue and manage resources, as they vie for popularity",
+		"long": "The Industry is a digital music-themed collectible card game, where two players face off in a turned-based match to accrue and manage resources, as they vie for popularity.  Every card in the game represents a music related object, title or environment, including Artist cards, which are represented by real life music artists.Players bribe, steal, trade, and manipulate resources in an effort to reach ten hype points before their opponent can. Winning a match earns in-game currency that can then be used to unlock new cards. Much of the gameplay is influenced by interaction mechanics from card games like Hearthstone and Magic: The Gathering, and resource manipulation principles from board games like Monopoly and Settlers of Catan.",
+		"email": "design@diigima.com"
 	}
-
-
-
-
-
 ]
