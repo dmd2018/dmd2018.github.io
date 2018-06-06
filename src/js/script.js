@@ -40,6 +40,8 @@ var number = 0;
                number = 5;
              } else if (this.hasAttribute("data-abbien")) {
                number = 6;
+             } else if (this.hasAttribute("data-terry")) {
+               number = 7;
              }
             $(".project-info-img").attr("src", data[number].image);
             $(".project-info-title").text(data[number].project);
