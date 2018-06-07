@@ -227,5 +227,15 @@
 		"short": "The Industry is a digital music-themed collectible card game, where two players face off in a turned-based match to accrue and manage resources, as they vie for popularity",
 		"long": "The Industry is a digital music-themed collectible card game, where two players face off in a turned-based match to accrue and manage resources, as they vie for popularity.  Every card in the game represents a music related object, title or environment, including Artist cards, which are represented by real life music artists.Players bribe, steal, trade, and manipulate resources in an effort to reach ten hype points before their opponent can. Winning a match earns in-game currency that can then be used to unlock new cards. Much of the gameplay is influenced by interaction mechanics from card games like Hearthstone and Magic: The Gathering, and resource manipulation principles from board games like Monopoly and Settlers of Catan.",
 		"email": "design@diigima.com"
+	},
+	{
+		"person": "Abbie Grant",
+		"project": "Lost Emotion",
+		"type": "installation",
+		"attr": "data-abbieg",
+		"image": "../media/logos/abbieg.png",
+		"short": "Lost Emotion is an installation created to represent the way in which we as humans, ignore, and forget the feelings that we have.",
+		"long": "Lost Emotion is an installation created to represent the way in which we as humans, ignore, and forget the feelings that we have. You may not of even questioned your own feelings or them of people around you, especially in crowded areas or for people who you do not have any emotional connection to. Designed to capture all the emotions that we all have felt and visually representing them blended together in a fast pace display. Lost Emotion encourages us to use this time to address this issue in today’s society. It asks you to take a moment for yourself and for everyone around you and appreciate and accept the natural feeling of emotions.",
+		"email": "abigailgrant2706@gmail.com"
 	}
 ]
