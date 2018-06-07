@@ -70,7 +70,8 @@ var number = 0;
                number = 20;
              } else if (this.hasAttribute("data-giancarlo")) {
                number = 21;
-
+             }else if (this.hasAttribute("data-abbieg")) {
+               number = 22;
              }
             $(".project-info-img").attr("src", data[number].image);
             $(".project-info-title").text(data[number].project);
