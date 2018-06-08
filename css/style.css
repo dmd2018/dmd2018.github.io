@@ -189,10 +189,12 @@ header .title {
 
 .project {
   background-color: #fff;
-  padding: 5px;
+  padding: 20px;
   margin-bottom: 50px;
-  transition: left 0.5s ease-in-out; }
-  .project:hover {
+  opacity: 0.8;
+  transition: all 1s; }
+.project:hover {
+		opacity: 1.0;
     padding: 20px; }
     .project:hover h2, .project:hover h3 {
       color: #576fae; }
@@ -203,8 +205,12 @@ header .title {
     height: 417px;
     position: absolute; }
   .project img {
-    width: 440px;
-    height: 332px; }
+    width: 100%;
+    transition: all 1s;
+	}
+	.project img:hover {
+		padding: 10px;
+	}
   .project h2 {
     text-transform: uppercase;
     letter-spacing: 2px; }
